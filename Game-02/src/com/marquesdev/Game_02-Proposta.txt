@@ -1,0 +1,6 @@
+1- Player (move em todas as direções);
+2- sistema de Vida;
+3- Efeitos sonoros;
+4- A* nos inimigos;
+5- Modo Fantasma nos inimigos;
+6- Coletar moedas e ganha o level!
